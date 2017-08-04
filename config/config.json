@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/filesSharedWithMeWebpart/FilesSharedWithMeWebpartWebPart.js",
+      "manifest": "./src/webparts/filesSharedWithMeWebpart/FilesSharedWithMeWebpartWebPart.manifest.json",
+      "outputPath": "./dist/files-shared-with-me-webpart.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "filesSharedWithMeWebpartStrings": "webparts/filesSharedWithMeWebpart/loc/{locale}.js"
+  }
+}

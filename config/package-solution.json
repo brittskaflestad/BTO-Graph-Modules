@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "files-shared-with-me-client-side-solution",
+    "id": "3c106a99-6988-487a-a336-c7b2cf200dc5",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/files-shared-with-me.sppkg"
+  }
+}
